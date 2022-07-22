@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 786ada5e-8f70-a9bc-4b32-564802cd2efc
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction and Course Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_1)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction and Course Overview
 
 In the Beginning: Ribosomes and Ribosomal RNA
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_2)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_2" %}}
 
 
 {{< tdclose >}}
@@ -71,14 +76,14 @@ Palade, G. E., and Siekevitz P. "[Liver Microsomes: An Integrated Morphological 
 
 Careful Measuring of Unhealthy Amounts of Radioactivity: A Role for tRNAs in Polypeptide Synthesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_3)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_3" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
  
 
-Hoagland, M.B., M. L. Stephenson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Soluble Ribonucleic Acid Intermediate in Protein Synthesis." (PDF)](http://www.jbc.org/content/231/1/241.full.pdf) _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
+Hoagland, M.B., M. L. Stephenson, et al. ["A Soluble Ribonucleic Acid Intermediate in Protein Synthesis." (PDF)](http://www.jbc.org/content/231/1/241.full.pdf) _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
 
 Presnyak, V., Alhusaini N., et al. "[Codon Optimality is a Major Determinant of mRNA Stability.](http://dx.doi.org/10.1016/j.cell.2015.02.029)" _Cell_ 160, no. 6 (2015): 1111–24.
 
@@ -95,7 +100,7 @@ Presnyak, V., Alhusaini N., et al. "[Codon Optimality is a Major Determinant of 
 
 mRNA as an Information Shuttle
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_4)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_4" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ S., Brenner, F. Jacob, et al. "[An Unstable Intermediate Carrying Information fr
 
 The Genomics Revolution: An Introduction to High-throughput Sequencing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_5)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_5" %}}
 
 
 {{< tdclose >}}
@@ -143,14 +148,14 @@ Y., Wan, K. Qu, et al. "[Genome-wide Measurement of RNA Folding Energies](http:/
 
 Let's Mix it up: SnRNAs and Pre-mRNA Splicing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_6)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_6" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
  
 
-Lerner, M. R., and J. A. Steitz. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus." (PDF - 1.9MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC411675/) _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
+Lerner, M. R., and J. A. Steitz. ["Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus." (PDF - 1.9MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC411675/) _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
 
 Jia, Y., J. C. Mu, et al. "[Mutation of a U2 SnRNA Gene Causes Global Disruption of Alternative Splicing and Neurodegeneration](http://dx.doi.org/10.1016/j.cell.2011.11.057)." _Cell_ 148, no. 1–2 (2012): 296–308.
 
@@ -167,7 +172,7 @@ Jia, Y., J. C. Mu, et al. "[Mutation of a U2 SnRNA Gene Causes Global Disruption
 
 Let it Sno: Ribosomal RNA Modification Directed by SnoRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_7)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_7" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Jack, K., C. Bellodi, et al. "[rRNA Pseudouridylation Defects Affect Ribosomal L
 
 Small is Beautiful: MicroRNAs as Ubiquitous Regulatory Molecules
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_8)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_8" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ D., Lauressergues, J. M. Couzigou, et al. "[Primary Transcripts of MicroRNAs Enc
 
 Running Interference: SiRNA as an Experimental Tool
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_9)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_9" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +244,7 @@ G., Hu, J. Kim, et al. "[A Genome-wide SiRNA Screen Identifies a New Transcripti
 
 Protecting us from Ourselves: PiRNAs Silence Transposons in Germline Tissue
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_10)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_10" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +268,7 @@ C., Klattenhoff, H. Xi, et al. "[The _Drosophila_ HP1 Homolog Rhino is Required 
 
 Who Needs Proteins?: Long Noncoding RNAs as Regulators of Gene Expression
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_11)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_11" %}}
 
 
 {{< tdclose >}}
@@ -287,7 +292,7 @@ C. A., Klattenhoff, J. C. Scheuermann, et al. "[Braveheart, A Long Noncoding RNA
 
 No End in Sight: Circular RNAs and their (possible) Functions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_12)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_12" %}}
 
 
 {{< tdclose >}}
@@ -311,7 +316,7 @@ S., Memczak, M. Jens, et al. "[Circular RNAs are a Large Class of Animal RNAs wi
 
 A New Hope: CRISPR-Associated RNAs, Prokaryotic Defense Mechanisms, have been Transformed into a Tool for Genome Editing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_13)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_13" %}}
 
 
 {{< tdclose >}}
@@ -335,7 +340,7 @@ T., Hart, M. Chandrashekhar, et al. "[High–Resolution CRISPR Screens Reveal Fi
 
 Oral Presentations and Course Discussion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Week_14)
+{{% resource_link 0eed205b-0cf6-8252-cb9c-14da3e727f87 "See the Lecture Summary" "#Week_14" %}}
 
 
 {{< tdclose >}}

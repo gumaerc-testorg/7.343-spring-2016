@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides summaries of each of the weekly lectures of the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 0eed205b-0cf6-8252-cb9c-14da3e727f87
 ---
@@ -166,7 +171,7 @@ Running Interference: SiRNA as an Experimental Tool
 
 {{< anchor "Week_9" >}}{{< /anchor >}}RNA molecules that are antisense to mRNA molecules can act to antagonize the function of their cognate mRNAs. In a classic experiment, Fire and Mello use different combinations of sense / antisense RNAs with complementarity to various regions of specific transcripts and discover that delivery of a double-stranded RNA molecule is a potent repressor of expression. Specifically, injection of either sense or antisense RNA into _C._ _elegans_ resulted in only modest interference of endogenous genes; however, injection of sense and antisense RNA together resulted in potent interference. These molecules must have complementarity to _exonic_ portions of the gene for maximal effect. This discovery of RNAi (RNA interference) formed the basis for both the use of siRNAs (short interfering RNAs) as experimental tools to specifically (more or less) silence certain genes as well as the possibility of RNA-based treatments for human disease.
 
-[Field Trip]({{< baseurl >}}/pages/syllabus#Field_Trip) to Broad Genetic Perturbation Platform (as described in Syllabus).
+{{% resource_link ce7cf8fe-29b1-117a-1b86-fec9e9cfeaa1 "Field Trip" "#Field_Trip" %}} to Broad Genetic Perturbation Platform (as described in Syllabus).
 
 
 {{< tdclose >}}

@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, a field trip to the RNA Platform at the
+  Broad Institute of MIT and Harvard, and the schedule of course topics and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ce7cf8fe-29b1-117a-1b86-fec9e9cfeaa1
 ---
@@ -12,11 +18,11 @@ Lectures: 1 session / week, 2 hours / session
 Prerequisites
 -------------
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
 [_7.08J Biological Chemistry II_](/courses/5-08j-biological-chemistry-ii-spring-2004/)
 
