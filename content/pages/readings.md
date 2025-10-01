@@ -59,9 +59,9 @@ In the Beginning: Ribosomes and Ribosomal RNA
 {{< tdopen >}}
  
 
-Palade, G. E. "[A Small Particulate Component of the Cytoplasm](http://www.ncbi.nlm.nih.gov/pubmed/14381428)." _Journal of Biophysical and Biochemical Cytology_ 1, no. 1 (1954): 59–68.
+Palade, G. E. "{{% resource_link "2f5e1a9c-6f05-4514-933f-1e92061a6c37" "A Small Particulate Component of the Cytoplasm" %}}." _Journal of Biophysical and Biochemical Cytology_ 1, no. 1 (1954): 59–68.
 
-Palade, G. E., and Siekevitz P. "[Liver Microsomes: An Integrated Morphological and Biochemical Study](http://www.ncbi.nlm.nih.gov/pubmed/13319380)." _Journal of Biophysical and Biochemical Cytology_ 2, no. 2 (1956): 171–200.
+Palade, G. E., and Siekevitz P. "{{% resource_link "1fdb8af2-4ffe-44a3-af9e-f4d4c678014d" "Liver Microsomes: An Integrated Morphological and Biochemical Study" %}}." _Journal of Biophysical and Biochemical Cytology_ 2, no. 2 (1956): 171–200.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Careful Measuring of Unhealthy Amounts of Radioactivity: A Role for tRNAs in Pol
 {{< tdopen >}}
  
 
-Hoagland, M.B., M. L. Stephenson, et al. ["A Soluble Ribonucleic Acid Intermediate in Protein Synthesis." (PDF)](http://www.jbc.org/content/231/1/241.full.pdf) _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
+Hoagland, M.B., M. L. Stephenson, et al. {{% resource_link "f9ba316b-736e-4d52-8c6b-1c30d43bf72a" "\"A Soluble Ribonucleic Acid Intermediate in Protein Synthesis.\" (PDF)" %}} _The Journal of Biochemistry_ 213, no. 1 (1958): 241–57.
 
-Presnyak, V., Alhusaini N., et al. "[Codon Optimality is a Major Determinant of mRNA Stability.](http://dx.doi.org/10.1016/j.cell.2015.02.029)" _Cell_ 160, no. 6 (2015): 1111–24.
+Presnyak, V., Alhusaini N., et al. "{{% resource_link "82ef6305-9c05-45c4-92d6-df306d6ef268" "Codon Optimality is a Major Determinant of mRNA Stability." %}}" _Cell_ 160, no. 6 (2015): 1111–24.
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ mRNA as an Information Shuttle
 {{< tdopen >}}
  
 
-Astrachan, L., and E. Volkin. "[Properties of Ribonucleic Acid Turnover in T2-Infected Escherichia Coli](http://dx.doi.org/10.1016/0006-3002(58)90010-6)." _Biochemica et Biophysica Acta_ 29, no. 3 (1958): 536–44.
+Astrachan, L., and E. Volkin. "{{% resource_link "11efb97e-d55c-4cdb-b364-309fd4d5b7ec" "Properties of Ribonucleic Acid Turnover in T2-Infected Escherichia Coli" %}}." _Biochemica et Biophysica Acta_ 29, no. 3 (1958): 536–44.
 
-S., Brenner, F. Jacob, et al. "[An Unstable Intermediate Carrying Information from Genes to Ribosomes for Protein Synthesis](https://www.researchgate.net/publication/44576884_An_Unstable_Intermediate_Carrying_Information_from_Genes_to_Ribosomes_for_Protein_Synthesis)." _Nature_ 190 (1961): 576–81.
+S., Brenner, F. Jacob, et al. "{{% resource_link "a05a9f61-aa64-423e-9a6b-d47d4f8f63de" "An Unstable Intermediate Carrying Information from Genes to Ribosomes for Protein Synthesis" %}}." _Nature_ 190 (1961): 576–81.
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ The Genomics Revolution: An Introduction to High-throughput Sequencing
 {{< tdopen >}}
  
 
-Mortazavi, A., B. A. Williams, et al. "[Mapping and Quantifying Mammalian Transcriptomes by RNA-Seq](http://dx.doi.org/10.1038/nmeth.1226)." _Nature Methods_ 5, no. 7 (2008): 621–8.
+Mortazavi, A., B. A. Williams, et al. "{{% resource_link "f618e4dc-52bb-49a2-b9a1-730c681016bc" "Mapping and Quantifying Mammalian Transcriptomes by RNA-Seq" %}}." _Nature Methods_ 5, no. 7 (2008): 621–8.
 
-Y., Wan, K. Qu, et al. "[Genome-wide Measurement of RNA Folding Energies](http://dx.doi.org/10.1016/j.molcel.2012.08.008)." _Molecular Cell_ 48, no. 2 (2012): 169–81.
+Y., Wan, K. Qu, et al. "{{% resource_link "baaa574d-8492-449e-996f-e998747ee477" "Genome-wide Measurement of RNA Folding Energies" %}}." _Molecular Cell_ 48, no. 2 (2012): 169–81.
 
 
 {{< tdclose >}}
@@ -155,9 +155,9 @@ Let's Mix it up: SnRNAs and Pre-mRNA Splicing
 {{< tdopen >}}
  
 
-Lerner, M. R., and J. A. Steitz. ["Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus." (PDF - 1.9MB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC411675/) _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
+Lerner, M. R., and J. A. Steitz. {{% resource_link "6dc596d0-e6af-4888-9071-807062bf82ec" "\"Antibodies to Small Nuclear RNAs Complexed with Proteins are Produced by Patients with Systemic Lupus Erythematosus.\" (PDF - 1.9MB)" %}} _Proceedings of the National Academy of Science_ 76, no. 11 (1979): 5495–9.
 
-Jia, Y., J. C. Mu, et al. "[Mutation of a U2 SnRNA Gene Causes Global Disruption of Alternative Splicing and Neurodegeneration](http://dx.doi.org/10.1016/j.cell.2011.11.057)." _Cell_ 148, no. 1–2 (2012): 296–308.
+Jia, Y., J. C. Mu, et al. "{{% resource_link "1cce3d5f-cf92-4671-b455-013f9720821c" "Mutation of a U2 SnRNA Gene Causes Global Disruption of Alternative Splicing and Neurodegeneration" %}}." _Cell_ 148, no. 1–2 (2012): 296–308.
 
 
 {{< tdclose >}}
@@ -179,9 +179,9 @@ Let it Sno: Ribosomal RNA Modification Directed by SnoRNAs
 {{< tdopen >}}
 
 
-Ganot, P., M. L. Bortolin, et al. "[Site-specific Pseudouridine Formation in Preribosomal RNA is Guided by Small Nucleolar RNAs](http://dx.doi.org/10.1016/S0092-8674(00)80263-9)." _Cell_ 89, no. 5 (1997): 799–809.
+Ganot, P., M. L. Bortolin, et al. "{{% resource_link "ecb47857-9332-4c44-8328-72208e7d0027" "Site-specific Pseudouridine Formation in Preribosomal RNA is Guided by Small Nucleolar RNAs" %}}." _Cell_ 89, no. 5 (1997): 799–809.
 
-Jack, K., C. Bellodi, et al. "[rRNA Pseudouridylation Defects Affect Ribosomal Ligand Binding and Translational Fidelity from Yeast to Human Cells](http://dx.doi.org/10.1016/j.molcel.2011.09.017)." _Molecular Cell_ 44, no. 4 (2011): 660–6.
+Jack, K., C. Bellodi, et al. "{{% resource_link "302f8875-15b5-4d7b-a588-c3412e359828" "rRNA Pseudouridylation Defects Affect Ribosomal Ligand Binding and Translational Fidelity from Yeast to Human Cells" %}}." _Molecular Cell_ 44, no. 4 (2011): 660–6.
 
 
 {{< tdclose >}}
@@ -203,9 +203,9 @@ Small is Beautiful: MicroRNAs as Ubiquitous Regulatory Molecules
 {{< tdopen >}}
  
 
-Lee, R. C., Feinbaum R. L., et al. "[The C. Elegans Heterochronic Gene Lin-4 Encodes Small RNAs with Antisense Complementarity to Lin-14](http://www.ncbi.nlm.nih.gov/pubmed/8252621)." _Cell_ 75, (1993): 843–54.
+Lee, R. C., Feinbaum R. L., et al. "{{% resource_link "c3b85da2-f213-4b1c-86ac-bff15c2d0c3c" "The C. Elegans Heterochronic Gene Lin-4 Encodes Small RNAs with Antisense Complementarity to Lin-14" %}}." _Cell_ 75, (1993): 843–54.
 
-D., Lauressergues, J. M. Couzigou, et al. "[Primary Transcripts of MicroRNAs Encode Regulatory Peptides](http://dx.doi.org/10.1038/nature14346)." _Nature_ 520, no. 7545 (2015): 90–3.
+D., Lauressergues, J. M. Couzigou, et al. "{{% resource_link "336eea98-eafd-41ad-ac92-d9e3e6ceff86" "Primary Transcripts of MicroRNAs Encode Regulatory Peptides" %}}." _Nature_ 520, no. 7545 (2015): 90–3.
 
 
 {{< tdclose >}}
@@ -227,9 +227,9 @@ Running Interference: SiRNA as an Experimental Tool
 {{< tdopen >}}
 
 
-A., Fire, S. Xu, et al. "[Potent and Specific Genetic Interference by Double-Stranded RNA in Caenorhabditis Elegans](http://www.ncbi.nlm.nih.gov/pubmed/9486653)." _Nature_ 391, no. 6669 (1998): 806–11.
+A., Fire, S. Xu, et al. "{{% resource_link "2ec89a02-8ede-4e46-b0b7-46bfa8636b7e" "Potent and Specific Genetic Interference by Double-Stranded RNA in Caenorhabditis Elegans" %}}." _Nature_ 391, no. 6669 (1998): 806–11.
 
-G., Hu, J. Kim, et al. "[A Genome-wide SiRNA Screen Identifies a New Transcriptional Module Required for Self-Renewal](http://dx.doi.org/10.1101/gad.1769609)." _Genes and Development_ 23, no. 7 (2009): 837–48.
+G., Hu, J. Kim, et al. "{{% resource_link "5d281fb4-af51-46ef-be0f-7a8618ab7467" "A Genome-wide SiRNA Screen Identifies a New Transcriptional Module Required for Self-Renewal" %}}." _Genes and Development_ 23, no. 7 (2009): 837–48.
 
 
 {{< tdclose >}}
@@ -251,9 +251,9 @@ Protecting us from Ourselves: PiRNAs Silence Transposons in Germline Tissue
 {{< tdopen >}}
  
 
-Brennecke, J., A. A. Aravin, et al. "[Discrete Small RNA-Generating Loci as Master Regulators of Transposon Activity in _Drosophila_](http://dx.doi.org/10.1016/j.cell.2007.01.043)." _Cell_ 128, no. 6 (2007): 1089–103.
+Brennecke, J., A. A. Aravin, et al. "{{% resource_link "1067f826-bc1b-4010-98f6-c2a7a7ad3958" "Discrete Small RNA-Generating Loci as Master Regulators of Transposon Activity in _Drosophila_" %}}." _Cell_ 128, no. 6 (2007): 1089–103.
 
-C., Klattenhoff, H. Xi, et al. "[The _Drosophila_ HP1 Homolog Rhino is Required for Transposon Silencing and PiRNA Production by Dual-Strand Clusters](http://dx.doi.org/10.1016/j.cell.2009.07.014)." _Cell_ 138, no. 6 (2009): 1137–49.
+C., Klattenhoff, H. Xi, et al. "{{% resource_link "f3d6ec56-781a-47e1-a270-0470b29e6182" "The _Drosophila_ HP1 Homolog Rhino is Required for Transposon Silencing and PiRNA Production by Dual-Strand Clusters" %}}." _Cell_ 138, no. 6 (2009): 1137–49.
 
 
 {{< tdclose >}}
@@ -275,9 +275,9 @@ Who Needs Proteins?: Long Noncoding RNAs as Regulators of Gene Expression
 {{< tdopen >}}
  
 
-Chaumeil, J., P. L. Baccon, et al. "[A Novel Role for Xist RNA in the Formation of a Repressive Nuclear Compartment into Which Genes are Recruited When Silenced](http://dx.doi.org/10.1101/gad.380906)." _Genes and Development_ 20, no. 16 (2006): 2223–37.
+Chaumeil, J., P. L. Baccon, et al. "{{% resource_link "951ab13b-e845-41e3-a9c3-ee03d9ffd522" "A Novel Role for Xist RNA in the Formation of a Repressive Nuclear Compartment into Which Genes are Recruited When Silenced" %}}." _Genes and Development_ 20, no. 16 (2006): 2223–37.
 
-C. A., Klattenhoff, J. C. Scheuermann, et al. "[Braveheart, A Long Noncoding RNA Required for Cardiovascular Lineage Commitment](http://dx.doi.org/10.1016/j.cell.2013.01.003)." _Cell_ 152, no. 3 (2013): 570–83.
+C. A., Klattenhoff, J. C. Scheuermann, et al. "{{% resource_link "f580ce0b-4c0d-4af8-a167-54688868ed94" "Braveheart, A Long Noncoding RNA Required for Cardiovascular Lineage Commitment" %}}." _Cell_ 152, no. 3 (2013): 570–83.
 
 
 {{< tdclose >}}
@@ -299,9 +299,9 @@ No End in Sight: Circular RNAs and their (possible) Functions
 {{< tdopen >}}
  
 
-J., Salzman, C. Gawad, et al. "[Circular RNAs are the Predominant Transcript Isoform from Hundreds of Human Genes in Diverse Cell Types](http://dx.doi.org/10.1371/journal.pone.0030733)." _PLOS One_ 7, no. 2 (2012): e30733.
+J., Salzman, C. Gawad, et al. "{{% resource_link "ec6eb19c-494a-43d0-a859-87b3456b8baf" "Circular RNAs are the Predominant Transcript Isoform from Hundreds of Human Genes in Diverse Cell Types" %}}." _PLOS One_ 7, no. 2 (2012): e30733.
 
-S., Memczak, M. Jens, et al. "[Circular RNAs are a Large Class of Animal RNAs with Regulatory Potency](http://dx.doi.org/10.1038/nature11928)." _Nature_ 495, no. 7441 (2013): 333–8.
+S., Memczak, M. Jens, et al. "{{% resource_link "dbcc6725-c26b-4418-8658-09a9b158bd73" "Circular RNAs are a Large Class of Animal RNAs with Regulatory Potency" %}}." _Nature_ 495, no. 7441 (2013): 333–8.
 
 
 {{< tdclose >}}
@@ -323,9 +323,9 @@ A New Hope: CRISPR-Associated RNAs, Prokaryotic Defense Mechanisms, have been Tr
 {{< tdopen >}}
  
 
-L. Cong, F. A. Ran, et al. "[Multiplex Genome Engineering Using CRISPR/Cas Systems](http://dx.doi.org/10.1126/science.1231143)." _Science_ 339, no. 6121 (2013): 819–22.
+L. Cong, F. A. Ran, et al. "{{% resource_link "00a65dc2-ed51-4e95-8a63-0674d6b8a37a" "Multiplex Genome Engineering Using CRISPR/Cas Systems" %}}." _Science_ 339, no. 6121 (2013): 819–22.
 
-T., Hart, M. Chandrashekhar, et al. "[High–Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities](http://dx.doi.org/10.1016/j.cell.2015.11.015)." _Cell_ 163, no. 6 (2015): 1515–26.
+T., Hart, M. Chandrashekhar, et al. "{{% resource_link "086277c1-2155-46d7-9349-f8cb4614f974" "High–Resolution CRISPR Screens Reveal Fitness Genes and Genotype-Specific Cancer Liabilities" %}}." _Cell_ 163, no. 6 (2015): 1515–26.
 
 
 {{< tdclose >}}
