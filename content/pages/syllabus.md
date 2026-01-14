@@ -45,9 +45,9 @@ Discussions will revolve around critically evaluating the rationale supporting t
 {{< anchor "Field_Trip" >}}{{< /anchor >}}Field Trip to RNA Platform at the Broad Institute of MIT and Harvard
 --------------------------------------------------------------------------------------------------------------
 
-To introduce students to the day-to-day workings of scientists at the forefront of RNA technologies and biological applications, we will visit to the {{% resource_link "bd1e729d-ea4e-44aa-89e6-12a82271bd2d" "Genetic Perturbation Platform" %}} at the {{% resource_link "969709ba-eba0-4af6-bc8f-f82c34c38522" "Broad Institute of MIT and Harvard" %}} near the MIT campus in Cambridge. Students will have the opportunity to tour the facility, observe the process behind large-scale RNA technology development, and talk to researchers tackling these problems. As background, students should read the following paper from Hu and colleagues that uses a genome-wide siRNA screen to identify genes important for self-renewal in mouse embryonic stem cells.
+To introduce students to the day-to-day workings of scientists at the forefront of RNA technologies and biological applications, we will visit to the [Genetic Perturbation Platform](https://www.broadinstitute.org/scientific-community/science/platforms/gpp/genetic-perturbation-platform) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) near the MIT campus in Cambridge. Students will have the opportunity to tour the facility, observe the process behind large-scale RNA technology development, and talk to researchers tackling these problems. As background, students should read the following paper from Hu and colleagues that uses a genome-wide siRNA screen to identify genes important for self-renewal in mouse embryonic stem cells.
 
-G, Hu, J Kim, et al. "{{% resource_link "5d281fb4-af51-46ef-be0f-7a8618ab7467" "A Genome-wide RNAi Screen Identifies A New Transcriptional Module Required for Self-Renewal" %}}." _Genes and Development_ 23, no. 7 (2009): 837-48.
+G, Hu, J Kim, et al. "[A Genome-wide RNAi Screen Identifies A New Transcriptional Module Required for Self-Renewal](http://dx.doi.org/10.1101/gad.1769609)." _Genes and Development_ 23, no. 7 (2009): 837-48.
 
 Calendar
 --------
@@ -172,7 +172,7 @@ Small is Beautiful: MicroRNAs as Ubiquitous Regulatory Molecules
 Running Interference: SiRNA as an Experimental Tool
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to {{% resource_link "bd1e729d-ea4e-44aa-89e6-12a82271bd2d" "Broad Institute Genetic Perturbation Platform" %}}
+Field Trip to [Broad Institute Genetic Perturbation Platform](https://www.broadinstitute.org/scientific-community/science/platforms/gpp/genetic-perturbation-platform)
 {{< tdclose >}}
 
 {{< trclose >}}
